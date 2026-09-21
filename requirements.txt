@@ -1,9 +1,0 @@
-# App runtime (Streamlit Community Cloud installs this file)
-streamlit>=1.50
-pandas>=2.2
-numpy>=1.26
-scipy>=1.11
-scikit-learn>=1.4
-statsmodels>=0.14
-plotly>=5.20
-pyarrow>=15
