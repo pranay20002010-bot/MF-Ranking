@@ -1,4 +1,0 @@
-# Only needed where you run build_dataset.py (local machine / GitHub Action)
--r requirements.txt
-requests>=2.31
-yfinance>=0.2.40
